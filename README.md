@@ -1,37 +1,5 @@
 # Reverse Shell Cheat Sheet
 
-## Summary
-
-* [Reverse Shell](#reverse-shell)
-    * [Bash TCP](#bash-tcp)
-    * [Bash UDP](#bash-udp)
-    * [Socat](#socat)
-    * [Perl](#perl)
-    * [Python](#python)
-    * [PHP](#php)
-    * [Ruby](#ruby)
-    * [Golang](#golang)
-    * [Netcat Traditional](#netcat-traditional)
-    * [Netcat OpenBsd](#netcat-openbsd)
-    * [Ncat](#ncat)
-    * [OpenSSL](#openssl)
-    * [Powershell](#powershell)
-    * [Awk](#awk)
-    * [Java](#java)
-    * [War](#war)
-    * [Lua](#lua)
-    * [NodeJS](#nodejs)
-    * [Groovy](#groovy)
-* [Meterpreter Shell](#meterpreter-shell)
-    * [Windows Staged reverse TCP](#windows-staged-reverse-tcp)
-    * [Windows Stageless reverse TCP](#windows-stageless-reverse-tcp)
-    * [Linux Staged reverse TCP](#linux-staged-reverse-tcp)
-    * [Linux Stageless reverse TCP](#linux-stageless-reverse-tcp)
-    * [Other platforms](#other-platforms)
-* [Spawn TTY Shell](#spawn-tty-shell)
-* [References](#references)
-
-## Reverse Shell
 
 ### Bash TCP
 
